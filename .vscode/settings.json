@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": false,
+  "[go]": {
+    "editor.formatOnSave": false
+  }
+}
